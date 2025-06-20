@@ -21,8 +21,12 @@ pip install MDAnalysis numpy tqdm
 ```
 ---
 ## Installation
-
-After extracting the zip file, inside the folder just execute
+You can install it by:
+```bash
+pip install git+https://github.com/rbiswasgroup/first_shell_sdf.git
+```
+---
+Or after extracting the zip file, inside the folder, just execute
 ```bash
 pip install .
 ```
